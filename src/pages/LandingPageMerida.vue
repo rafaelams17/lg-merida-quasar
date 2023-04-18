@@ -32,6 +32,7 @@
       <q-separator color="white" />
 
       <q-card-section>
+        <!-- Área Main -->
         <main>
           <q-card-section class="ct-p">
             <!-- ct-p = conteudo principal -->
@@ -68,6 +69,7 @@
       <q-separator color="white" />
 
       <q-card-section>
+        <!-- Área Footer -->
         <footer class="rd">
           <!-- rd = rodape -->
           <img class="rd-img" src="../assets/merida-texto.svg" alt="Merida" />
