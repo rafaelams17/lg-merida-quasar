@@ -4,4 +4,12 @@
 
 <script setup></script>
 
-<style></style>
+<style>
+@import url("https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+</style>
